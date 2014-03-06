@@ -1,0 +1,106 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[margin=1in]{geometry}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\LARGE
+\begin{center}
+\textbf
+{
+Group 4 - Enhancement of JMeter\\
+(Minutes of the Meeting) \\ 
+Date: \today \\
+Time: 10:30hrs
+}
+\end{center}
+
+\vfill
+
+\large
+
+\underline{\textbf{People Attended}} \\ 
+\\
+\indent \textbf{Project In-charge:} \\
+\indent Mr. Nagesh Karmali \\
+\\
+\indent \textbf{Project Mentor/s:} \\
+\indent Miss. Silpa T. \\
+\indent Mr. Sukhdeo Gupta
+\vfill
+\indent \textbf{Team Members:} \\
+\indent Mr. Dhruv Joshi \\
+\indent Miss. Manisha Choudhary \\
+\indent Miss Surabhi Mour \\
+\indent Mr. Naman Choudhary \\
+\indent Mr. Shekhar Saurav \\
+\indent Miss. Buddha Sushmitha \\
+\\
+\indent \textbf{PMO:} \\
+\indent Miss. Firuza Aibara\\
+
+\vfill
+
+\underline{\textbf{People Absent}} \\ 
+\indent None
+\vfill
+
+\underline{\textbf{Meeting Time}} \\
+\indent Start: 11:30hrs \\
+\indent End: hrs 12:45\\
+\indent Duration: 1 Hour 15 Minutes \\
+
+\vfill
+
+\underline{\textbf{Venue}} \\
+\indent Meeting Room, \\ 
+\indent Opp. Phatak Sir's Office,\\ 
+\indent 4th Floor, \\
+\indent Kanwal Rekhi Building
+
+\pagebreak
+
+\textbf{Points Discussed:}
+
+\vskip20pt
+
+\textbf{Tasks Assigned:}
+\vskip10pt
+\begin{tabular}{|c|p{6cm}|p{3cm}|p{4cm}|}
+ \hline
+ \hline
+ \textbf{No.} & \textbf{Issues} & \textbf{Assigned To} & \textbf{Forecast Date} \\
+  \hline
+  \hline
+1 & Write report on plugin(Objectives; screenshots - before and after; location, module, type of the files modified) & All & 01/06/2013 \\
+  \hline
+2 & Plugin-Visualization & Surabhi & 01/06/2013 \\
+  \hline
+3 & Plugin-Timer & Manisha & 01/06/2013 \\
+  \hline
+4 & Plugin-Config Elements & Shekhar & 01/06/2013 \\
+  \hline
+5 & Plugin-Listener & Dhruv & 01/06/2013 \\
+  \hline
+6 & Plugin-Controller and pre-processor & Naman & 01/06/2013 \\
+  \hline
+7 & TPC-C, TPC-H, TPC-App, Spec & Sukhdeo & 01/06/2013 \\
+  \hline
+8 & Report on available benchmarks for DB & Sukhdeo & 01/06/2013 \\
+  \hline
+9 & Report on available Open Source Benchmarks & Sukhdeo & 01/06/2013 \\
+  \hline
+10 & Other Open Source tools like JMeter on the tablet & Sukhdeo & 01/06/2013 \\
+  \hline
+11 & Prepare list of all plugins. Find which are useful for which purpose(throughput, functional testing, etc.) & Sushmitha & 01/06/2013 \\
+  \hline
+12 & Long polling. Discuss with Pawan & Dhruv & 01/06/2013 \\
+  \hline
+13 & SQL Lite DB & Sukhdeo & 01/06/2013 \\
+  \hline
+14 & Keep track of work done by the interns. Guide them for presentation on Saturday & Silpa & 01/06/2013 \\
+  \hline
+\end{tabular}
+
+\end{document}

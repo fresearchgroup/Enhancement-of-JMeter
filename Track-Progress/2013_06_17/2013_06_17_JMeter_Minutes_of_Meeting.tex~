@@ -1,0 +1,94 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[margin=1in]{geometry}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\LARGE
+\begin{center}
+\textbf
+{
+Group 4 - Enhancement of JMeter\\
+(Minutes of the Meeting) \\ 
+Date: \today \\
+Time: 10:30hrs
+}
+\end{center}
+
+\vfill
+
+\large
+
+\underline{\textbf{People Attended}} \\ 
+\\
+\indent \textbf{Project In-charge:} \\
+\indent Mr. Nagesh Karmali \\
+\\
+\indent \textbf{Project Mentor/s:} \\
+\indent Miss. Silpa T. \\
+\indent Mr. Sukhdeo Gupta \\
+\vfill
+\indent \textbf{Team Members:} \\
+\indent Mr. Dhruv Joshi \\
+\indent Miss. Manisha Choudhary \\
+\indent Miss Surabhi Mour \\
+\indent Mr. Naman Choudhary \\
+\indent Mr. Shekhar Saurav \\
+\indent Miss. Buddha Sushmitha \\
+\\
+\indent \textbf{PMO:} \\
+\indent Miss. Firuza Aibara\\
+
+\vfill
+
+\underline{\textbf{People Absent}} \\ 
+\indent None \\
+\vfill
+
+\underline{\textbf{Meeting Time}} \\
+\indent Start: 10:50hrs \\
+\indent End: hrs 12:30\\
+\indent Duration: 1 Hour 40 Minutes \\
+
+\vfill
+
+\underline{\textbf{Venue}} \\
+\indent Meeting Room, \\ 
+\indent Opp. Phatak Sir's Office,\\ 
+\indent 4th Floor, \\
+\indent Kanwal Rekhi Building
+
+\pagebreak
+
+\vskip20pt
+
+\textbf{Tasks Assigned:}
+\vskip10pt
+\begin{tabular}{|c|p{6cm}|p{3cm}|p{4cm}|}
+ \hline
+ \hline
+ \textbf{No.} & \textbf{Issues} & \textbf{Assigned To} & \textbf{Forecast Date} \\
+  \hline
+  \hline
+1 & Close issue 44, and 60 & Firuza & 13/06/2013 \\
+  \hline
+2 & Report on auto csv generation for config elements & Manisha & 14/06/2013 \\
+  \hline
+3 & Report on dynamic changing of jmeter bahaviour for bandwidth throttling & Shekhar & 14/06/2013 \\
+  \hline
+4 & Extend date of Naman for "Object hierarchy- Issue 164 to 15/06/2013 & Silpa & 13/06/20013 \\
+  \hline
+5 & Extend date of Surabhi for "Implement TPC-C - Issue 163 to 15/06/2013 & Silpa & 13/06/2013 \\
+  \hline
+6 & Extend date of Sushmita for "Edward tuftee graphs - Issue 171 & Silpa & 13/06/2013 \\
+  \hline
+7 & a) Plugin for longpolling in JMeter. \newline b) Generating load which has pages of jQuery & Dhruv & 15/06/2013 \\
+  \hline
+8 & Close all issues that are resolved & Firuza & 13/06/2013 \\
+  \hline
+9 & Perform experiment with OSDB on SQLite. Install selenium and give comparison on how is it different than JMeter & Sukhdeo & 15/06/2013 \\
+  \hline
+\end{tabular}
+
+\end{document}

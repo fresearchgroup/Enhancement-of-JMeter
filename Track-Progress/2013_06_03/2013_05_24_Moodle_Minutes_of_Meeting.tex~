@@ -1,0 +1,101 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[margin=1in]{geometry}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\LARGE
+\begin{center}
+\textbf
+{
+  Group 2 - Optimizing Moodle LMS for Improving User Response Time\\
+(Minutes of the Meeting) \\ 
+Date: \today \\
+Time: 17:00hrs
+}
+\end{center}
+
+\vfill
+
+\large
+
+\underline{\textbf{People Attended}} \\ 
+\\
+\indent \textbf{Project In-charge:} \\
+\indent Mr. Nagesh Karmali \\
+\\
+\indent \textbf{Project Mentor/s:} \\
+\indent Mr. Dhananjay Ambekar \\
+\\
+\indent \textbf{Team Members:} \\
+\indent Miss. Akshaya Muralidharan \\
+\indent Miss. Vinitha Silpa Reddy \\
+\indent Mr. Pawan Deshmukh \\
+\indent Miss. Shabna T. R. \\
+\indent Mr. Mevin M. Dominic \\ 
+\\
+\indent \textbf{PMO:} \\
+\indent Miss. Firuza Aibara\\
+
+\vfill
+
+\underline{\textbf{People Absent}} \\ 
+\indent Miss. Priyanka Manchanda (Team Member) (Went for exam)\\
+\indent Mr. Surya Pratap Singh (Team Member) (Went for exam)\\
+\indent Mr. Nilesh Birari (Project Mentor)
+
+\vfill
+
+\underline{\textbf{Meeting Time}} \\
+\indent Start: 18:00hrs \\
+\indent End: 19:10hrs \\
+\indent Duration: 1 Hour 10 Minutes \\
+
+\vfill
+
+\underline{\textbf{Venue}} \\
+\indent Meeting Room, Opp. Phatak Sir's Office \\
+\indent 4th Floor, 
+\indent KReSIT Building \\
+
+\pagebreak
+
+\textbf{Points Discussed:}
+\vskip10pt
+\begin{tabular}{|c|p{13cm}|}
+ \hline
+ \textbf{No.} & \textbf{Points} \\
+  \hline
+  \hline
+1 & Different tables of moodle \\
+  \hline
+2 & Courses on moodle \\
+  \hline
+3 & JMeter with moodle performance \\
+  \hline
+\end{tabular}
+
+\vskip20pt
+
+\textbf{Tasks Assigned:}
+\vskip10pt
+\begin{tabular}{|c|p{6cm}|p{3cm}|p{4cm}|}
+ \hline
+ \hline
+ \textbf{No.} & \textbf{Issues} & \textbf{Assigned To} & \textbf{Forecast Date} \\
+  \hline
+  \hline
+1 & Plugin on JMeter in moodle & Shabna & 25/05/2013 \\
+  \hline
+2 & Report on all configurations (apache) & Akshaya & 25/05/2013 \\
+  \hline
+3 & Clicker architecture(Comet pull and push) & Pawan & 25/05/2013 \\ 
+  \hline
+4 & SSD & Mevin & 25/05/2013 \\
+  \hline
+5 & SQL Queries & Vinitha & 28/05/2013 \\
+  \hline
+\end{tabular}
+
+\end{document}
