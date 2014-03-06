@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+sudo -A ifconfig wlan0:$1 $2 up
+exit 0
