@@ -1,0 +1,55 @@
+\begin{thebibliography}{10}
+
+\bibitem{Ehh}
+E.~H. Hallili, {\em Apache JMeter: A practical beginner's guide to automated
+  testing and performance measurement for your websites}.
+\newblock Packt Publishing Ltd., 2008.
+
+\bibitem{Jmeter}
+``{Apache Jmeter. Available at \\ http://jmeter.apache.org/},'' February 2013.
+
+\bibitem{Manual}
+``{ Apache Jmeter usermanual. Available at\\
+  /http://jmeter.apache.org/usermanual/component\_reference.htmlintroduction}.''
+
+\bibitem{Plugins}
+``{Installation of Jmeter Googlecode plugins\\
+  http://www.code.google.com/p/jmeter-plugins/},'' February 2012.
+
+\bibitem{Plugins1}
+``{Jmeter Googlecode plugins testplan \\
+  http://shantonusarker.blogspot.in/2013/05/introdution-to-jmeter-google-plugin.html/},''
+  May 2013.
+
+\bibitem{Bench}
+``{ Standard Benchmarks for database systems. Available at\\
+  www.tpc.org/information/sessions/sigmod/sigmod97.ppt},'' 1997.
+
+\bibitem{Standard}
+``{TPC-C Benchmark standard specification. Available at\\
+  www.tpc.org/tpcc/spec/tpcc\_current.pdf},'' February 2010.
+
+\bibitem{Tpcc-pdf}
+``{Benchmark overview of TPC-C. Available at\\
+  http://globalsp.ts.fujitsu.com/dmsp/Publications/public/Benchmark\_Overview\_TPC-C.pdf},''
+  October 2003.
+
+\bibitem{Tpcc}
+``Tpc-c benchmark kit. available at \\
+  http://docs.openlinksw.com/virtuoso/tpcc.html.''
+
+\bibitem{Comp}
+``{comparisons between LoadRunner vs. Grinder vs. JMeter. Available at\\
+  http://blackanvil.blogspot.in/2006/06/shootout-load-runner-vs-grinder-vs.html},''
+  June 2006.
+
+\bibitem{Results}
+``{Jmeter Plug-in Results \\
+  http://www.methodsandtools.com/tools/jmeterplugins.php/},'' May 2012.
+
+\bibitem{CSV}
+GauravMutreja, ``{ Exporting your database to csv file. Available at \\
+  http://gauravmutreja.wordpress.com/2011/10/13/exporting-your-database-to-csv-file-in-java/},''
+  October 2011.
+
+\end{thebibliography}

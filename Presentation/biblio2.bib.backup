@@ -1,0 +1,45 @@
+% biblio.bib
+
+@Book{Ehh,
+ author    = "Emily H. Hallili",
+ title     = "Apache JMeter: A practical beginner's guide to automated testing and performance measurement for your websites",
+ publisher = "Packt Publishing Ltd.",
+ year      =  2008,
+}
+
+@misc{Hammer,
+  author    = {},
+  title     ={{HammerDB Database Load Testing.  Available at\\ 	http://hammerora.sourceforge.net.}},
+  month     = {July},
+  year      = {2013},
+  url = "http://hammerora.sourceforge.net"
+}	
+
+@misc{Tpcc,
+  Author    ={},
+  Title     ={TPC-C Benchmark kit.  Available at \\ http://docs.openlinksw.com/virtuoso/tpcc.html}},
+  month    = {},
+  year     = {},
+  url = "http://docs.openlinksw.com/virtuoso/tpcc.html"
+
+}		
+
+@misc{Tpcc-bench,
+  author =       {},
+  title =        {{TPC-C benchmark.  Available at \\ http://www.tpc.org/tpcc/}},
+  month  =       {},
+  year =         {},
+  url = "http://www.tpc.org/tpcc/"
+}
+
+@misc{Oltp,
+  author =       {},
+  title =        {{OLTP/Web Benchmarks for Relational Databases.  Available at \\ http://oltpbenchmark.com/}},
+  month  =       {May},
+  year =         {2012},
+  url = "http://oltpbenchmark.com/"
+}
+
+
+	
+

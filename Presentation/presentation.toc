@@ -1,0 +1,61 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Guides}{2}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{3}{0}{2}
+\beamer@sectionintoc {3}{Some JMeter Plugins}{7}{0}{3}
+\beamer@sectionintoc {4}{Enhancements}{8}{0}{4}
+\beamer@sectionintoc {5}{AutoCSV Generation}{16}{0}{5}
+\beamer@subsectionintoc {5}{1}{Application to be tested}{17}{0}{5}
+\beamer@subsectionintoc {5}{2}{The Auto CSV Generation GUI}{18}{0}{5}
+\beamer@subsectionintoc {5}{3}{The .csv file generated in /bin folder}{19}{0}{5}
+\beamer@subsectionintoc {5}{4}{The ams\_user.csv generated}{20}{0}{5}
+\beamer@sectionintoc {6}{Bandwidth Throttling}{24}{0}{6}
+\beamer@sectionintoc {7}{Bandwidth Throttling}{25}{0}{7}
+\beamer@subsectionintoc {7}{1}{User Interface}{28}{0}{7}
+\beamer@subsectionintoc {7}{2}{Working of Bandwidth Throttling in JMeter}{29}{0}{7}
+\beamer@subsectionintoc {7}{3}{Test Results}{31}{0}{7}
+\beamer@sectionintoc {8}{Dynamic Bandwidth Throttling}{35}{0}{8}
+\beamer@sectionintoc {9}{Dynamic Bandwidth Throttling}{36}{0}{9}
+\beamer@subsectionintoc {9}{1}{User Interface}{41}{0}{9}
+\beamer@subsectionintoc {9}{2}{Working of Dynamic Bandwidth Throttling}{42}{0}{9}
+\beamer@subsectionintoc {9}{3}{Test Results}{43}{0}{9}
+\beamer@subsectionintoc {9}{4}{JMeter Log Report}{45}{0}{9}
+\beamer@subsectionintoc {9}{5}{JMeter Log Report}{46}{0}{9}
+\beamer@sectionintoc {10}{IP Spoofing}{47}{0}{10}
+\beamer@subsectionintoc {10}{1}{What is IP address Spoofing?}{48}{0}{10}
+\beamer@subsectionintoc {10}{2}{IP Spoofing in JMeter}{49}{0}{10}
+\beamer@subsectionintoc {10}{5}{JMeter Implementation}{52}{0}{10}
+\beamer@subsectionintoc {10}{6}{Interface of IP Spoofing Config Element in JMeter}{53}{0}{10}
+\beamer@subsectionintoc {10}{7}{Virtual IPs allocated to machine}{54}{0}{10}
+\beamer@subsectionintoc {10}{8}{Server Response Without IP Spoofing}{55}{0}{10}
+\beamer@subsectionintoc {10}{9}{Server Response With IP Spoofing}{56}{0}{10}
+\beamer@sectionintoc {11}{Automating TPC-C Benchmarking}{57}{0}{11}
+\beamer@sectionintoc {12}{Automating TPC-C Benchmarking}{58}{0}{12}
+\beamer@subsectionintoc {12}{1}{WHY TPC-C?}{60}{0}{12}
+\beamer@subsectionintoc {12}{3}{The Benchmarking Model}{62}{0}{12}
+\beamer@subsectionintoc {12}{4}{TPC-C Model}{63}{0}{12}
+\beamer@subsectionintoc {12}{5}{Tables in the TPC-C schema}{64}{0}{12}
+\beamer@subsectionintoc {12}{6}{Transactions}{65}{0}{12}
+\beamer@subsectionintoc {12}{7}{TPC-C Workflow}{66}{0}{12}
+\beamer@subsectionintoc {12}{8}{Why JMeter to automate??}{67}{0}{12}
+\beamer@subsectionintoc {12}{9}{TPC-C Testing in JMeter}{69}{0}{12}
+\beamer@subsectionintoc {12}{10}{Controllers}{70}{0}{12}
+\beamer@subsectionintoc {12}{11}{Test with 1 warehouse}{71}{0}{12}
+\beamer@subsectionintoc {12}{12}{Procedures}{72}{0}{12}
+\beamer@subsectionintoc {12}{13}{Test with 33 Warehouses}{73}{0}{12}
+\beamer@subsectionintoc {12}{14}{JDBC Configuration}{74}{0}{12}
+\beamer@subsectionintoc {12}{15}{Controllers}{75}{0}{12}
+\beamer@subsectionintoc {12}{16}{Timers}{76}{0}{12}
+\beamer@subsectionintoc {12}{17}{Transaction Call}{77}{0}{12}
+\beamer@subsectionintoc {12}{18}{Function Helper}{78}{0}{12}
+\beamer@subsectionintoc {12}{19}{Procedure Request}{79}{0}{12}
+\beamer@subsectionintoc {12}{20}{Response}{80}{0}{12}
+\beamer@subsectionintoc {12}{21}{Aggregate Report}{81}{0}{12}
+\beamer@subsectionintoc {12}{22}{Transactions per second}{82}{0}{12}
+\beamer@subsectionintoc {12}{23}{Aggregate Graph}{83}{0}{12}
+\beamer@subsectionintoc {12}{24}{Response Time over time}{84}{0}{12}
+\beamer@sectionintoc {13}{Challenges}{85}{0}{13}
+\beamer@sectionintoc {14}{Future Work}{89}{0}{14}
+\beamer@sectionintoc {15}{Conclusion}{94}{0}{15}
+\beamer@sectionintoc {16}{References}{98}{0}{16}
+\beamer@sectionintoc {17}{Educational Application}{99}{0}{17}
+\beamer@sectionintoc {18}{Team Members}{102}{0}{18}
