@@ -1,0 +1,158 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Purpose}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Scope}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Abbreviations and Definitions}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Motivation}{3}{section.1.4}
+\contentsline {chapter}{\numberline {2}Objective}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}Design Considerations}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Assumptions and Dependencies}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}General Constraints}{8}{section.3.2}
+\contentsline {section}{\numberline {3.3}Goals and Guidelines}{8}{section.3.3}
+\contentsline {section}{\numberline {3.4}Technology Used}{8}{section.3.4}
+\contentsline {chapter}{\numberline {4}Architecture}{11}{chapter.4}
+\contentsline {chapter}{\numberline {5}Design And Implementation}{13}{chapter.5}
+\contentsline {section}{\numberline {5.1}Class Diagrams}{14}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Assertions}{14}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Configuration Elements}{17}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Logic Controllers}{20}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Post Processors}{22}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}PreProcessors}{24}{subsection.5.1.5}
+\contentsline {chapter}{\numberline {6}Detailed Description}{25}{chapter.6}
+\contentsline {section}{\numberline {6.1}Assertions}{25}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Response Assertion}{25}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Duration Assertion}{25}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Size Assertion}{26}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}XML Assertion}{26}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}BeanShell Assertion}{26}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}MD5Hex Assertion}{26}{subsection.6.1.6}
+\contentsline {subsection}{\numberline {6.1.7}HTML Assertion}{26}{subsection.6.1.7}
+\contentsline {subsection}{\numberline {6.1.8}XPath Assertion}{26}{subsection.6.1.8}
+\contentsline {subsection}{\numberline {6.1.9}XML Schema Assertion}{26}{subsection.6.1.9}
+\contentsline {subsection}{\numberline {6.1.10}BSF Assertion}{26}{subsection.6.1.10}
+\contentsline {subsection}{\numberline {6.1.11}JSR223 Assertion}{26}{subsection.6.1.11}
+\contentsline {subsection}{\numberline {6.1.12}Compare Assertion}{26}{subsection.6.1.12}
+\contentsline {subsection}{\numberline {6.1.13}SMIME Assertion}{26}{subsection.6.1.13}
+\contentsline {section}{\numberline {6.2}Configuration Elements}{27}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}CSV Data Set Config}{27}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}FTP Request Defaults}{27}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}HTTP Authorization Manager}{27}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}HTTP Cache Manager}{27}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}HTTP Cookie Manager}{27}{subsection.6.2.5}
+\contentsline {subsection}{\numberline {6.2.6}HTTP Request Defaults}{27}{subsection.6.2.6}
+\contentsline {subsection}{\numberline {6.2.7}HTTP Header Manager}{27}{subsection.6.2.7}
+\contentsline {subsection}{\numberline {6.2.8}Java Request Defaults}{28}{subsection.6.2.8}
+\contentsline {subsection}{\numberline {6.2.9}JDBC Connection Configurations}{28}{subsection.6.2.9}
+\contentsline {subsection}{\numberline {6.2.10}Keystore Configurations}{28}{subsection.6.2.10}
+\contentsline {subsection}{\numberline {6.2.11}Login Config Element}{28}{subsection.6.2.11}
+\contentsline {subsection}{\numberline {6.2.12}LDAP Request Defaults}{28}{subsection.6.2.12}
+\contentsline {subsection}{\numberline {6.2.13}LDAP Extended Request Refaults}{28}{subsection.6.2.13}
+\contentsline {subsection}{\numberline {6.2.14}TCP Sampler Config}{28}{subsection.6.2.14}
+\contentsline {subsection}{\numberline {6.2.15}User Defined Variables}{28}{subsection.6.2.15}
+\contentsline {subsection}{\numberline {6.2.16}Random variable}{28}{subsection.6.2.16}
+\contentsline {subsection}{\numberline {6.2.17}Counter}{29}{subsection.6.2.17}
+\contentsline {subsection}{\numberline {6.2.18}Simple Config Elements}{29}{subsection.6.2.18}
+\contentsline {section}{\numberline {6.3}Logic Controllers}{29}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Once Only Controller}{29}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Loop Controller}{30}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Interleave Controller}{30}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Random Controller}{30}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}Random Order Controller}{30}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.6}Throughput controller}{30}{subsection.6.3.6}
+\contentsline {subsection}{\numberline {6.3.7}If Controller}{30}{subsection.6.3.7}
+\contentsline {subsection}{\numberline {6.3.8}While Controller}{30}{subsection.6.3.8}
+\contentsline {subsection}{\numberline {6.3.9}Module Controller}{30}{subsection.6.3.9}
+\contentsline {subsection}{\numberline {6.3.10}Include Controller}{30}{subsection.6.3.10}
+\contentsline {subsection}{\numberline {6.3.11}Transaction Controller}{31}{subsection.6.3.11}
+\contentsline {subsection}{\numberline {6.3.12}Runtime Controller}{31}{subsection.6.3.12}
+\contentsline {subsection}{\numberline {6.3.13}Switch Controller}{31}{subsection.6.3.13}
+\contentsline {subsection}{\numberline {6.3.14}Foreach Controller}{31}{subsection.6.3.14}
+\contentsline {subsection}{\numberline {6.3.15}Recording Controller}{31}{subsection.6.3.15}
+\contentsline {section}{\numberline {6.4}Post-Processors}{31}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Regular Expression Extractor}{31}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}CSS/JQuery Extractor}{31}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}XPath Extractor}{31}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}Result Status Action Handler}{32}{subsection.6.4.4}
+\contentsline {subsection}{\numberline {6.4.5}BeanShell PostProcessor}{32}{subsection.6.4.5}
+\contentsline {subsection}{\numberline {6.4.6}BSF PostProcessor}{32}{subsection.6.4.6}
+\contentsline {subsection}{\numberline {6.4.7}JSR223 PostProcessor}{32}{subsection.6.4.7}
+\contentsline {subsection}{\numberline {6.4.8}JDBC PostProcessor}{32}{subsection.6.4.8}
+\contentsline {section}{\numberline {6.5}PreProcessors}{32}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}HTML Link Parser}{33}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}HTTP URL Re-writing Modifier}{33}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}HTML Parameter Mask}{33}{subsection.6.5.3}
+\contentsline {subsection}{\numberline {6.5.4}User Parameters}{33}{subsection.6.5.4}
+\contentsline {subsection}{\numberline {6.5.5}JDBC Preprocessor}{33}{subsection.6.5.5}
+\contentsline {subsection}{\numberline {6.5.6}RegEx User Parameters}{33}{subsection.6.5.6}
+\contentsline {subsection}{\numberline {6.5.7}BeanShell Preprocessor}{34}{subsection.6.5.7}
+\contentsline {subsection}{\numberline {6.5.8}BSF PreProcessor}{34}{subsection.6.5.8}
+\contentsline {subsection}{\numberline {6.5.9}JSR223 Preprocessor}{34}{subsection.6.5.9}
+\contentsline {section}{\numberline {6.6}Timers}{35}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}Constant Timer}{35}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.6.2}Gaussian Random Timer}{35}{subsection.6.6.2}
+\contentsline {subsection}{\numberline {6.6.3}Uniform Random Timer}{35}{subsection.6.6.3}
+\contentsline {subsection}{\numberline {6.6.4}Constant Throughput Timer}{35}{subsection.6.6.4}
+\contentsline {subsection}{\numberline {6.6.5}Synchronising Timer}{35}{subsection.6.6.5}
+\contentsline {subsection}{\numberline {6.6.6}BSF Timer}{35}{subsection.6.6.6}
+\contentsline {subsection}{\numberline {6.6.7}Beanshell Timer}{35}{subsection.6.6.7}
+\contentsline {subsection}{\numberline {6.6.8}JSR223 Timer}{35}{subsection.6.6.8}
+\contentsline {subsection}{\numberline {6.6.9}Poisson Random Timer}{36}{subsection.6.6.9}
+\contentsline {section}{\numberline {6.7}Visualizers/Listeners}{36}{section.6.7}
+\contentsline {subsection}{\numberline {6.7.1}Graphical Listeners}{37}{subsection.6.7.1}
+\contentsline {subsection}{\numberline {6.7.2}Tabular Results Listeners}{37}{subsection.6.7.2}
+\contentsline {subsection}{\numberline {6.7.3}Assertion Results}{37}{subsection.6.7.3}
+\contentsline {subsection}{\numberline {6.7.4}View Results Tree}{37}{subsection.6.7.4}
+\contentsline {subsection}{\numberline {6.7.5}Mailer Visualizer}{37}{subsection.6.7.5}
+\contentsline {subsection}{\numberline {6.7.6}BeanShell Listener}{37}{subsection.6.7.6}
+\contentsline {subsection}{\numberline {6.7.7}BSF Listener}{37}{subsection.6.7.7}
+\contentsline {subsection}{\numberline {6.7.8}JSR223 Listener}{38}{subsection.6.7.8}
+\contentsline {subsection}{\numberline {6.7.9}Comparison Assertion Visualizer}{38}{subsection.6.7.9}
+\contentsline {section}{\numberline {6.8}Samplers}{38}{section.6.8}
+\contentsline {subsection}{\numberline {6.8.1}FTP Request}{38}{subsection.6.8.1}
+\contentsline {subsection}{\numberline {6.8.2}HTTP Request}{38}{subsection.6.8.2}
+\contentsline {subsection}{\numberline {6.8.3}JDBC Request}{38}{subsection.6.8.3}
+\contentsline {subsection}{\numberline {6.8.4}Java Request}{38}{subsection.6.8.4}
+\contentsline {subsection}{\numberline {6.8.5}SOAP/XML-RPC Request}{38}{subsection.6.8.5}
+\contentsline {subsection}{\numberline {6.8.6}LDAP Request}{39}{subsection.6.8.6}
+\contentsline {subsection}{\numberline {6.8.7}Access Log Sampler}{39}{subsection.6.8.7}
+\contentsline {subsection}{\numberline {6.8.8}BeanShell Sampler}{39}{subsection.6.8.8}
+\contentsline {subsection}{\numberline {6.8.9}BSF Sampler}{39}{subsection.6.8.9}
+\contentsline {subsection}{\numberline {6.8.10}JSR223 Sampler}{39}{subsection.6.8.10}
+\contentsline {subsection}{\numberline {6.8.11}TCP Sampler}{39}{subsection.6.8.11}
+\contentsline {subsection}{\numberline {6.8.12}JUnit Request}{40}{subsection.6.8.12}
+\contentsline {subsection}{\numberline {6.8.13}Mail Reader Sampler}{40}{subsection.6.8.13}
+\contentsline {subsection}{\numberline {6.8.14}Test Action}{40}{subsection.6.8.14}
+\contentsline {subsection}{\numberline {6.8.15}SMTP Sampler}{40}{subsection.6.8.15}
+\contentsline {subsection}{\numberline {6.8.16}OS Process Sampler}{40}{subsection.6.8.16}
+\contentsline {section}{\numberline {6.9}Auto CSV Generation}{40}{section.6.9}
+\contentsline {section}{\numberline {6.10}Filtered Results Listener Plugin}{41}{section.6.10}
+\contentsline {section}{\numberline {6.11}SMTP Defaults}{41}{section.6.11}
+\contentsline {section}{\numberline {6.12}Automating TPC-C Tests in JMeter}{42}{section.6.12}
+\contentsline {subsection}{\numberline {6.12.1}The Benchmark Model}{42}{subsection.6.12.1}
+\contentsline {section}{\numberline {6.13}Bandwidth Throttling}{46}{section.6.13}
+\contentsline {section}{\numberline {6.14}Dynamic Bandwidth Throttling}{47}{section.6.14}
+\contentsline {section}{\numberline {6.15}IP Spoofing Config Element}{48}{section.6.15}
+\contentsline {chapter}{\numberline {7}Graphical User Interface}{49}{chapter.7}
+\contentsline {section}{\numberline {7.1}Auto CSV Generation}{49}{section.7.1}
+\contentsline {section}{\numberline {7.2}Filtered Results Listener Plugin}{50}{section.7.2}
+\contentsline {section}{\numberline {7.3}SMTP Defaults GUI}{51}{section.7.3}
+\contentsline {section}{\numberline {7.4}GUI for TPC-C Sampler}{52}{section.7.4}
+\contentsline {section}{\numberline {7.5}Bandwidth Throttling GUI}{53}{section.7.5}
+\contentsline {section}{\numberline {7.6}Dynamic Bandwidth Throttling GUI}{54}{section.7.6}
+\contentsline {section}{\numberline {7.7}IP Spoofing Config Element GUI}{55}{section.7.7}
+\contentsline {chapter}{\numberline {8}Demonstrations of Test Plans}{57}{chapter.8}
+\contentsline {section}{\numberline {8.1}Demonstration of ``Auto CSV Generation'' config element}{57}{section.8.1}
+\contentsline {section}{\numberline {8.2}Demonstration of SMTP Defaults Config Element}{61}{section.8.2}
+\contentsline {section}{\numberline {8.3}Automatic TPC-C testing in JMeter}{65}{section.8.3}
+\contentsline {section}{\numberline {8.4}Demonstration of Bandwidth Throttling in JMeter}{76}{section.8.4}
+\contentsline {section}{\numberline {8.5}Demonstration of Dynamic Bandwidth Throttling in JMeter}{80}{section.8.5}
+\contentsline {section}{\numberline {8.6}Demonstration of IP spoofing Config Element in JMeter}{84}{section.8.6}
+\contentsline {chapter}{\numberline {9}Technical Details}{89}{chapter.9}
+\contentsline {section}{\numberline {9.1}Auto CSV Generation}{89}{section.9.1}
+\contentsline {section}{\numberline {9.2}Filtered Results Listener Plugin}{90}{section.9.2}
+\contentsline {section}{\numberline {9.3}SMTP Defaults}{90}{section.9.3}
+\contentsline {section}{\numberline {9.4}Automating TPC-C tests in JMeter}{91}{section.9.4}
+\contentsline {section}{\numberline {9.5}Bandwidth Throttling}{95}{section.9.5}
+\contentsline {section}{\numberline {9.6}Dynamic Bandwidth Throttling}{96}{section.9.6}
+\contentsline {section}{\numberline {9.7}IP Spoofing Config Element}{96}{section.9.7}
+\contentsline {chapter}{\numberline {10}Challenges}{97}{chapter.10}
+\contentsline {chapter}{\numberline {11}Conclusion and Future Work}{99}{chapter.11}

@@ -1,0 +1,86 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Load testing tool architecture}}{11}{figure.4.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Class Diagram for XPath Assertion}}{14}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Class diagram for XML Assertion}}{15}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Class Diagram for Login Config element}}{17}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Class Diagram for KeyStore Config}}{18}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Class Diagram for Loop Controller}}{20}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Class Diagram for Runtime Controller}}{21}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Class Diagram for XPath Extractor}}{22}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Class Diagram for Regex Extractor}}{23}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Class Diagram for BSF Preprocessor}}{24}{figure.5.9}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Illustration of TPC-C benchmarking model}}{42}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Database Schema for TPC-C Benchmarking}}{43}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces TPC-C Test Scenario}}{45}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces TPC-C Workflow}}{45}{figure.6.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Auto CSV Generation GUI}}{49}{figure.7.1}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Old GUI without filtered results in ``View Results in a Table''}}{51}{figure.7.2}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces New GUI with filter \textbf {'Limit'} in ``View Results in a Table''}}{51}{figure.7.3}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces SMTP Defaults Config GUI}}{52}{figure.7.4}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces TPC-C Sampler GUI}}{53}{figure.7.5}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Bandwidth Throttling element in Http Requests Defaults}}{53}{figure.7.6}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Dynamic Bandwidth Throttling GUI}}{54}{figure.7.7}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces IP Spoofing Config Element GUI}}{55}{figure.7.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces 'bin' directory before CSV file generation}}{57}{figure.8.1}
+\contentsline {figure}{\numberline {8.2}{\ignorespaces 'bin' directory after CSV file generation}}{58}{figure.8.2}
+\contentsline {figure}{\numberline {8.3}{\ignorespaces The ams-user.csv file in MS Excel}}{58}{figure.8.3}
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Test plan with HTTP Samplers, to which “CSV data config” element is added as child}}{59}{figure.8.4}
+\contentsline {figure}{\numberline {8.5}{\ignorespaces The HTTP sampler, to which the .csv file is added as child}}{59}{figure.8.5}
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Observation 1}}{60}{figure.8.6}
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Observation 2}}{60}{figure.8.7}
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Thread group in the test plan}}{62}{figure.8.8}
+\contentsline {figure}{\numberline {8.9}{\ignorespaces SMTP Defaults in the test plan}}{62}{figure.8.9}
+\contentsline {figure}{\numberline {8.10}{\ignorespaces First SMTP sampler in the test plan}}{62}{figure.8.10}
+\contentsline {figure}{\numberline {8.11}{\ignorespaces Second SMTP sampler in the test plan}}{63}{figure.8.11}
+\contentsline {figure}{\numberline {8.12}{\ignorespaces Results Tree Listener for first sampler in the test plan after the test completion}}{63}{figure.8.12}
+\contentsline {figure}{\numberline {8.13}{\ignorespaces Mail inbox showing the recieved message from first sampler}}{64}{figure.8.13}
+\contentsline {figure}{\numberline {8.14}{\ignorespaces Results Tree Listener for second sampler in the test plan after the test completion}}{64}{figure.8.14}
+\contentsline {figure}{\numberline {8.15}{\ignorespaces Mail inbox showing the recieved message from second sampler}}{65}{figure.8.15}
+\contentsline {figure}{\numberline {8.16}{\ignorespaces Test plan for TPC-C preliminary test}}{66}{figure.8.16}
+\contentsline {figure}{\numberline {8.17}{\ignorespaces Include Controller for including the actual TPC-C test script}}{67}{figure.8.17}
+\contentsline {figure}{\numberline {8.18}{\ignorespaces Tables generated in the database for Case 1: 1 warehouse}}{67}{figure.8.18}
+\contentsline {figure}{\numberline {8.19}{\ignorespaces List of routines generated in the database.}}{68}{figure.8.19}
+\contentsline {figure}{\numberline {8.20}{\ignorespaces Tables generated in the database for Case 2: 33 warehouses}}{68}{figure.8.20}
+\contentsline {figure}{\numberline {8.21}{\ignorespaces 23 samples are taken in the test plan. }}{69}{figure.8.21}
+\contentsline {figure}{\numberline {8.22}{\ignorespaces JDBC Connection Configuration for the test plan}}{70}{figure.8.22}
+\contentsline {figure}{\numberline {8.23}{\ignorespaces Constant Timer for the test plan}}{70}{figure.8.23}
+\contentsline {figure}{\numberline {8.24}{\ignorespaces Think Timer for the test plan}}{71}{figure.8.24}
+\contentsline {figure}{\numberline {8.25}{\ignorespaces JDBC Request sampler for Payment transaction for the test plan}}{72}{figure.8.25}
+\contentsline {figure}{\numberline {8.26}{\ignorespaces Functions added to Function Helper list}}{72}{figure.8.26}
+\contentsline {figure}{\numberline {8.27}{\ignorespaces View Results Tree Listener after the test run}}{73}{figure.8.27}
+\contentsline {figure}{\numberline {8.28}{\ignorespaces Response Data in View Results Tree Listener showing OUT and INOUT parameters of the procedure}}{73}{figure.8.28}
+\contentsline {figure}{\numberline {8.29}{\ignorespaces Aggregate Report for the test plan}}{74}{figure.8.29}
+\contentsline {figure}{\numberline {8.30}{\ignorespaces View Result Table showing the successful status of the procedures for the test plan}}{74}{figure.8.30}
+\contentsline {figure}{\numberline {8.31}{\ignorespaces JMeter plugin showing Transactions per second for the different transactions}}{75}{figure.8.31}
+\contentsline {figure}{\numberline {8.32}{\ignorespaces JMeter plugin showing Aggregate Graph for Min, Max Average, Median, 90th Percentile time for all transactions}}{75}{figure.8.32}
+\contentsline {figure}{\numberline {8.33}{\ignorespaces JMeter plugin showing Response time vs time graph}}{76}{figure.8.33}
+\contentsline {figure}{\numberline {8.34}{\ignorespaces Test Plan hierarchy for Bandwidth Throttling}}{77}{figure.8.34}
+\contentsline {figure}{\numberline {8.35}{\ignorespaces HTTP request Defaults for thread group 1}}{77}{figure.8.35}
+\contentsline {figure}{\numberline {8.36}{\ignorespaces HTTP request Defaults for thread group 2}}{78}{figure.8.36}
+\contentsline {figure}{\numberline {8.37}{\ignorespaces View Results table listener for the first thread group}}{79}{figure.8.37}
+\contentsline {figure}{\numberline {8.38}{\ignorespaces View Results table listener for the second thread group}}{79}{figure.8.38}
+\contentsline {figure}{\numberline {8.39}{\ignorespaces Aggregate report for thread group 1}}{80}{figure.8.39}
+\contentsline {figure}{\numberline {8.40}{\ignorespaces Aggregate report for thread group 2}}{80}{figure.8.40}
+\contentsline {figure}{\numberline {8.41}{\ignorespaces Test Plan for Dynamic Bandwidth Throttling }}{81}{figure.8.41}
+\contentsline {figure}{\numberline {8.42}{\ignorespaces Dynamic bandwidth throttling specifications in HTTP Request Defaults }}{81}{figure.8.42}
+\contentsline {figure}{\numberline {8.43}{\ignorespaces Aggregate report for Dynamic Bandwidth Throttling }}{82}{figure.8.43}
+\contentsline {figure}{\numberline {8.44}{\ignorespaces JMeter log image : Showing error rate crossing 7\% and degrading bandwidth }}{83}{figure.8.44}
+\contentsline {figure}{\numberline {8.45}{\ignorespaces JMeter log image : Showing error rate going below 7\% and upgrading bandwidth }}{83}{figure.8.45}
+\contentsline {figure}{\numberline {8.46}{\ignorespaces JMeter log image : Showing error rate crossing 7\% again and degrading bandwidth }}{84}{figure.8.46}
+\contentsline {figure}{\numberline {8.47}{\ignorespaces Sample Test plan for IP spoofing }}{85}{figure.8.47}
+\contentsline {figure}{\numberline {8.48}{\ignorespaces A sample request for a page of a website on localhost}}{85}{figure.8.48}
+\contentsline {figure}{\numberline {8.49}{\ignorespaces A sample request for a page of a website on localhost}}{86}{figure.8.49}
+\contentsline {figure}{\numberline {8.50}{\ignorespaces IP Config Setup}}{86}{figure.8.50}
+\contentsline {figure}{\numberline {8.51}{\ignorespaces Alias IP's added to the system}}{87}{figure.8.51}
+\contentsline {figure}{\numberline {8.52}{\ignorespaces Result tree in the test plan showing successfully sent requests.}}{87}{figure.8.52}
+\contentsline {figure}{\numberline {8.53}{\ignorespaces Result tree in the test plan showing successfully sent requests.}}{88}{figure.8.53}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
